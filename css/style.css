@@ -529,3 +529,98 @@ font-weight: 600;
     border-bottom: 1px solid gray;
 }
 
+.vab{
+    width: 1222px;
+    height: 767px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vad{
+    width: 598px;
+    height: 589px;
+    border-radius: 32px;
+    background-color: #FF5634;
+}
+
+.vad .fd{
+    position: relative;
+    left: 60px ;
+    top: 40px;
+}
+
+.vad .df{
+    position: relative;
+    left: 200px;
+    bottom: 500px;
+}
+
+.vaw{
+    width: 540px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 150px;
+    margin-left: 40px;
+}
+
+.vaw h1{
+    width: 482px;
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.vaw p{
+    width: 545px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #656565;
+}
+
+.iml{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.los{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.los h1{
+width: 232px;
+font-size: 24px;
+font-weight: 400;
+}
+
+.los p{
+    width: 450px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #656565;
+}
+
+.vabs{
+    width: 1222px;
+    height: 767px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+.vad .fds{
+    position: relative;
+    left: 190px ;
+    top: 40px;
+}
+
+.vad .dfs{
+    position: relative;
+    left: 50px;
+    bottom: 500px;
+}
