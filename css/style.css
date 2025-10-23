@@ -728,7 +728,7 @@ main {
     font-size: 20px;
 }
 
-.nab p{
+.nab p {
     width: 315px;
     font-size: 18px;
     font-weight: 400;
@@ -738,9 +738,66 @@ main {
     right: 80px;
 }
 
-.maj{
+.maj {
     width: 1300px;
     gap: 28px;
     display: flex;
     flex-wrap: wrap;
+}
+
+.jam {
+    width: 1521px;
+    height: 680px;
+    background-color: #121212;
+}
+
+.nas {
+    width: 1521px;
+    height: 613px;
+    display: flex;
+    align-items: center;
+}
+
+.nar {
+    padding: 195px 180px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.nar h1 {
+    width: 460px;
+    font-size: 56px;
+    font-weight: 400;
+}
+
+.nar p {
+    width: 541px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 20px;
+}
+
+.nax button {
+    width: 247px;
+    height: 73px;
+    font-size: 18px;
+    border-radius: 16px;
+    border: transparent;
+    border-bottom: 1px solid #656565;
+    transition: .5s;
+}
+
+.nax button:hover {
+    background-color: #FF5634;
+    color: #fff;
+    border: transparent;
+    border-bottom: 1px solid white;
+}
+
+.ver img {
+    width: 616px;
+    height: 600px;
 }
