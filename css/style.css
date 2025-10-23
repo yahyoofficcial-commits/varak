@@ -801,3 +801,65 @@ main {
     width: 616px;
     height: 600px;
 }
+
+.das {
+    width: 1521px;
+    height: 200px;
+}
+
+.daf {
+    display: flex;
+    align-items: center;
+    gap: 260px;
+    padding: 100px 150px;
+}
+
+.daw {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.wad {
+    display: flex;
+    gap: 10px;
+}
+
+.wad h1 {
+    width: 180px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.daw p {
+    width: 409px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #656565;
+    line-height: 30px;
+}
+
+.dad {
+    margin-left: 100px;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+.dad button {
+    width: 251px;
+    height: 64px;
+    font-size: 18px;
+    border-radius: 16px;
+    border: transparent;
+    border-bottom: 1px solid #656565;
+    transition: .5s;
+}
+
+.dad button:hover {
+    background-color: #FF5634;
+    color: white;
+    scale: 0.7;
+    border-bottom: 1px solid black;
+    font-size: 21px;
+}
